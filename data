@@ -1,0 +1,12 @@
+-rw-rw-r-- 1 andy andy 1538  5月 12 09:37 linuxnet.anjuta
+ls completed
+andy@ubuntu:~/linuxnet$ ls
+filetest.c  forkexec.c  forkexec.c~  forkexec.out  linuxnet.anjuta
+andy@ubuntu:~/linuxnet$ gedit .gitignore
+andy@ubuntu:~/linuxnet$ git status
+# On branch master
+nothing to commit (working directory clean)
+andy@ubuntu:~/linuxnet$ ls
+filetest.c  forkexec.c  forkexec.c~  forkexec.out  linuxnet.anjuta
+andy@ubuntu:~/linuxnet$ gedit data
+
